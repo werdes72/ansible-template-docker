@@ -1,0 +1,5 @@
+[main:vars]
+ansible_ssh_private_key_file=PATH_TO_SSH_KEY
+
+[main]
+USER@IP
